@@ -1,1 +1,2505 @@
 line 5 (check.php) backend is working
+line 5 (check.php) backend is working
+line 5 (check.php) backend is working
+line 5 (check.php) backend is working
+line 5 (check.php) backend is working
+line 5 (connection.php) loaded connection script
+line 19 (connection.php) Connection failed: SQLSTATE[HY000] [2002] No such file or directory
+line 5 (connection.php) loaded connection script
+line 5 (check.php) backend is working
+line 5 (check.php) backend is working
+line 5 (check.php) backend is working
+line 5 (connection.php) loaded connection script
+Line 5 in show_databases.php, Class 'DbConnection' not found  (ErrorException)line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+Line 9 in show_databases.php, Call to a member function query() on null  (ErrorException)line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 12 (create_database.php) created database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+Line 9 in create_database.php, SQLSTATE[HY000]: General error: 1007 Can't create database 'testy'; database exists  (PDOException)line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (create_database.php) created database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (delete_database.php) deleted database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => testy
+            [0] => testy
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => testy
+            [0] => testy
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => testy
+            [0] => testy
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => testy
+            [0] => testy
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => testy
+            [0] => testy
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => testy
+            [0] => testy
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => testy
+            [0] => testy
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => testy
+            [0] => testy
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => testy
+            [0] => testy
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => testy
+            [0] => testy
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => testy
+            [0] => testy
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => testy
+            [0] => testy
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => testy
+            [0] => testy
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => testy
+            [0] => testy
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (delete_database.php) deleted database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => libby
+            [0] => libby
+        )
+
+    [3] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [4] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [5] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [6] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [7] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (delete_database.php) deleted database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap1
+            [0] => scrap1
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => scrap3
+            [0] => scrap3
+        )
+
+    [8] => Array
+        (
+            [Database] => scrap4
+            [0] => scrap4
+        )
+
+    [9] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [10] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [11] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (delete_database.php) deleted database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap3
+            [0] => scrap3
+        )
+
+    [7] => Array
+        (
+            [Database] => scrap4
+            [0] => scrap4
+        )
+
+    [8] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [9] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [10] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (delete_database.php) deleted database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap3
+            [0] => scrap3
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap4
+            [0] => scrap4
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (delete_database.php) deleted database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap4
+            [0] => scrap4
+        )
+
+    [6] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [7] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap4
+            [0] => scrap4
+        )
+
+    [6] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [7] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap4
+            [0] => scrap4
+        )
+
+    [6] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [7] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (create_database.php) created database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap1
+            [0] => scrap1
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap4
+            [0] => scrap4
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (create_database.php) created database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap1
+            [0] => scrap1
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => scrap4
+            [0] => scrap4
+        )
+
+    [8] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [9] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [10] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (delete_database.php) deleted database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap4
+            [0] => scrap4
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (delete_database.php) deleted database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap4
+            [0] => scrap4
+        )
+
+    [6] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [7] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (create_database.php) created database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap4
+            [0] => scrap4
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (delete_database.php) deleted database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap4
+            [0] => scrap4
+        )
+
+    [6] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [7] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (delete_database.php) deleted database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (create_database.php) created database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap1
+            [0] => scrap1
+        )
+
+    [6] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [7] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (create_database.php) created database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap1
+            [0] => scrap1
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (create_database.php) created database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap1
+            [0] => scrap1
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => scrap3
+            [0] => scrap3
+        )
+
+    [8] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [9] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [10] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (create_database.php) created database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap1
+            [0] => scrap1
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => scrap3
+            [0] => scrap3
+        )
+
+    [8] => Array
+        (
+            [Database] => scrap4
+            [0] => scrap4
+        )
+
+    [9] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [10] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [11] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (delete_database.php) deleted database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap1
+            [0] => scrap1
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => scrap3
+            [0] => scrap3
+        )
+
+    [8] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [9] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [10] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (delete_database.php) deleted database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap1
+            [0] => scrap1
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap3
+            [0] => scrap3
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
