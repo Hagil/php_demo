@@ -4,7 +4,7 @@ require('logger.php');
 require_once('credentials.php');
 logger('loaded connection script');
 
-class Userconnect
+class Dbconnect
 {
   public $conn;
 

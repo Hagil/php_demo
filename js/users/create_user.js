@@ -1,7 +1,7 @@
 function create_user() {
   console.log('Inside create_user');
   var user = $('#user_name').val();
-  var user = $('#user_pw').val();
+  var pass = $('#user_pw').val();
   var data = {
     user_name: user,
     user_pw: pass
