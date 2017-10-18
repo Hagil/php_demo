@@ -4108,3 +4108,990 @@ line 13 (show_databases.php) Array
 
 )
 
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap1
+            [0] => scrap1
+        )
+
+    [6] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [7] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap1
+            [0] => scrap1
+        )
+
+    [6] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [7] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (delete_database.php) deleted database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [6] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [7] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 16 (create_database.php) created database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap
+            [0] => scrap
+        )
+
+    [6] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [7] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap
+            [0] => scrap
+        )
+
+    [6] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [7] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [8] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 16 (create_database.php) created database
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap
+            [0] => scrap
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+Line 5 in show_user.php, Class 'Userconnect' not found  (ErrorException)line 5 (connection.php) loaded connection script
+Line 7 in create_user.php, Class 'Userconnect' not found  (ErrorException)line 5 (connection.php) loaded connection script
+Line 5 in show_user.php, Class 'Userconnect' not found  (ErrorException)line 5 (connection.php) loaded connection script
+Line 7 in create_user.php, Class 'Userconnect' not found  (ErrorException)line 5 (connection.php) loaded connection script
+Line 5 in show_user.php, Class 'Userconnect' not found  (ErrorException)line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_user.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap
+            [0] => scrap
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_user.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap
+            [0] => scrap
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_user.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap
+            [0] => scrap
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+Line 10 in create_user.php, Undefined index: user_pw  (ErrorException)line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_user.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap
+            [0] => scrap
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+Line 5 in delete_user.php, Class 'Dbconnect' not found  (ErrorException)line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_user.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap
+            [0] => scrap
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+Line 5 in delete_user.php, Class 'Dbconnect' not found  (ErrorException)line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_user.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap
+            [0] => scrap
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+Line 5 in delete_user.php, Class 'Dbconnect' not found  (ErrorException)line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_user.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap
+            [0] => scrap
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+Line 10 in create_user.php, Undefined index: user_pw  (ErrorException)line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_user.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap
+            [0] => scrap
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+Line 10 in create_user.php, Undefined index: user_pw  (ErrorException)line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_user.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap
+            [0] => scrap
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+Line 5 in show_user.php, Class 'Dbconnect' not found  (ErrorException)line 5 (connection.php) loaded connection script
+Line 5 in show_user.php, Class 'Dbconnect' not found  (ErrorException)line 5 (connection.php) loaded connection script
+Line 5 in show_user.php, Class 'Dbconnect' not found  (ErrorException)line 5 (connection.php) loaded connection script
+Line 5 in show_user.php, Class 'Dbconnect' not found  (ErrorException)line 5 (connection.php) loaded connection script
+Line 7 in create_user.php, Class 'Dbconnect' not found  (ErrorException)line 5 (connection.php) loaded connection script
+Line 5 in show_user.php, Class 'Dbconnect' not found  (ErrorException)line 5 (connection.php) loaded connection script
+Line 5 in show_user.php, Class 'Dbconnect' not found  (ErrorException)line 5 (connection.php) loaded connection script
+Line 5 in show_user.php, Class 'Dbconnect' not found  (ErrorException)line 5 (connection.php) loaded connection script
+Line 5 in show_user.php, Class 'Dbconnect' not found  (ErrorException)

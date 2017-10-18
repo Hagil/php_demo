@@ -14,18 +14,40 @@
   <!-- javscript-->
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <script src="js/users.js"></script>
+  <script src="js/users/show_user.js"></script>
+  <script src="js/users/create_user.js"></script>
+  <script src="js/users/delete_user.js"></script>
+  <script src="js/users/users.js"></script>
 </head>
 
 <body class="container">
 
   <div class="jumbotron">
-    <h1>Welcome to php_demo</h1>
-    <p>This site will demo stuff</p>
+    <h1>Manage Users</h1>
+    <p class="alert alert-danger">WARNING - DO NOT DEPLOY...</p>
   </div>
 
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam nam et rem, aspernatur accusantium fugit dolorum itaque adipisci dolore vero, eos facere ullam, expedita totam fuga ad ea aperiam harum.</p>
+  <input class="form-control" id="user_name">
+  <button class="btn btn-primary" id="create_user">create user</button>
 
+  <table class="table">
+    <thead>
+      <tr>
+        <th>user name</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>test_user</td>
+        <td><button id="test_database">delete</button></td>
+      </tr>
+      <tr>
+        <td>test_user2</td>
+        <td><button id="test_database2">delete</button></td>
+      </tr>
+    </tbody>
+  </table>
 </body>
 
 </html>

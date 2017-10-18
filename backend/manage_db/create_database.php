@@ -2,7 +2,7 @@
 
 require_once ('../common/connection.php');
 
-sleep('1');
+sleep('1'); // mimic a 'real' server
 
 $db = new Dbconnect($admin, $pass);
 
