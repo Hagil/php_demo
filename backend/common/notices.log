@@ -49,3 +49,550 @@ line 13 (show_user.php) Array
 
 )
 
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap
+            [0] => scrap
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+Line 13 in create_database.php, SQLSTATE[HY000]: General error: 1007 Can't create database 'scrap2'; database exists  (PDOException)line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap
+            [0] => scrap
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap
+            [0] => scrap
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 11 (delete_database.php) if is true
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_databases.php) Array
+(
+    [0] => Array
+        (
+            [Database] => information_schema
+            [0] => information_schema
+        )
+
+    [1] => Array
+        (
+            [Database] => companies
+            [0] => companies
+        )
+
+    [2] => Array
+        (
+            [Database] => mysql
+            [0] => mysql
+        )
+
+    [3] => Array
+        (
+            [Database] => performance_schema
+            [0] => performance_schema
+        )
+
+    [4] => Array
+        (
+            [Database] => project_two
+            [0] => project_two
+        )
+
+    [5] => Array
+        (
+            [Database] => scrap
+            [0] => scrap
+        )
+
+    [6] => Array
+        (
+            [Database] => scrap2
+            [0] => scrap2
+        )
+
+    [7] => Array
+        (
+            [Database] => sys
+            [0] => sys
+        )
+
+    [8] => Array
+        (
+            [Database] => test
+            [0] => test
+        )
+
+    [9] => Array
+        (
+            [Database] => wdi
+            [0] => wdi
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_user.php) Array
+(
+    [0] => Array
+        (
+            [user] => libby
+            [0] => libby
+        )
+
+    [1] => Array
+        (
+            [user] => tester2
+            [0] => tester2
+        )
+
+    [2] => Array
+        (
+            [user] => tester3
+            [0] => tester3
+        )
+
+    [3] => Array
+        (
+            [user] => mysql.session
+            [0] => mysql.session
+        )
+
+    [4] => Array
+        (
+            [user] => mysql.sys
+            [0] => mysql.sys
+        )
+
+    [5] => Array
+        (
+            [user] => root
+            [0] => root
+        )
+
+    [6] => Array
+        (
+            [user] => tester
+            [0] => tester
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_user.php) Array
+(
+    [0] => Array
+        (
+            [user] => libby
+            [0] => libby
+        )
+
+    [1] => Array
+        (
+            [user] => tester2
+            [0] => tester2
+        )
+
+    [2] => Array
+        (
+            [user] => tester3
+            [0] => tester3
+        )
+
+    [3] => Array
+        (
+            [user] => mysql.session
+            [0] => mysql.session
+        )
+
+    [4] => Array
+        (
+            [user] => mysql.sys
+            [0] => mysql.sys
+        )
+
+    [5] => Array
+        (
+            [user] => root
+            [0] => root
+        )
+
+    [6] => Array
+        (
+            [user] => tester
+            [0] => tester
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 11 (delete_user.php) if is true
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_user.php) Array
+(
+    [0] => Array
+        (
+            [user] => libby
+            [0] => libby
+        )
+
+    [1] => Array
+        (
+            [user] => tester2
+            [0] => tester2
+        )
+
+    [2] => Array
+        (
+            [user] => tester3
+            [0] => tester3
+        )
+
+    [3] => Array
+        (
+            [user] => mysql.session
+            [0] => mysql.session
+        )
+
+    [4] => Array
+        (
+            [user] => mysql.sys
+            [0] => mysql.sys
+        )
+
+    [5] => Array
+        (
+            [user] => root
+            [0] => root
+        )
+
+    [6] => Array
+        (
+            [user] => tester
+            [0] => tester
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (delete_user.php) if is false
+line 19 (delete_user.php) deleted user
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_user.php) Array
+(
+    [0] => Array
+        (
+            [user] => libby
+            [0] => libby
+        )
+
+    [1] => Array
+        (
+            [user] => tester3
+            [0] => tester3
+        )
+
+    [2] => Array
+        (
+            [user] => mysql.session
+            [0] => mysql.session
+        )
+
+    [3] => Array
+        (
+            [user] => mysql.sys
+            [0] => mysql.sys
+        )
+
+    [4] => Array
+        (
+            [user] => root
+            [0] => root
+        )
+
+    [5] => Array
+        (
+            [user] => tester
+            [0] => tester
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 14 (delete_user.php) if is false
+line 19 (delete_user.php) deleted user
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_user.php) Array
+(
+    [0] => Array
+        (
+            [user] => libby
+            [0] => libby
+        )
+
+    [1] => Array
+        (
+            [user] => mysql.session
+            [0] => mysql.session
+        )
+
+    [2] => Array
+        (
+            [user] => mysql.sys
+            [0] => mysql.sys
+        )
+
+    [3] => Array
+        (
+            [user] => root
+            [0] => root
+        )
+
+    [4] => Array
+        (
+            [user] => tester
+            [0] => tester
+        )
+
+)
+
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 18 (create_user.php) created user
+line 5 (connection.php) loaded connection script
+line 17 (connection.php) Connected successfully
+line 13 (show_user.php) Array
+(
+    [0] => Array
+        (
+            [user] => hagil
+            [0] => hagil
+        )
+
+    [1] => Array
+        (
+            [user] => libby
+            [0] => libby
+        )
+
+    [2] => Array
+        (
+            [user] => mysql.session
+            [0] => mysql.session
+        )
+
+    [3] => Array
+        (
+            [user] => mysql.sys
+            [0] => mysql.sys
+        )
+
+    [4] => Array
+        (
+            [user] => root
+            [0] => root
+        )
+
+    [5] => Array
+        (
+            [user] => tester
+            [0] => tester
+        )
+
+)
+
